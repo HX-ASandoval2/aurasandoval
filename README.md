@@ -11,10 +11,7 @@ Habilidades: TYPESCRIPT / JAVASCRIPT / REACT.JS / REDUX / HTML / CSS / POSTGRESS
 - 👯 Quiero colaborar con un proyecto de desarrollo de videojuegos 
 - 💬 Pregúntame acerca de mis bocetos, mis diseños 😏 
 - 😄 Pronombres: Auri 
-- ⚡ Dato curioso: Me encanta leer Webtoom 😁 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aurasandoval)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aura-sandoval-carcamo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@crhisuri)  
+- ⚡ Dato curioso: Me encanta leer Webtoom 😁  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aurasandoval)  
 
